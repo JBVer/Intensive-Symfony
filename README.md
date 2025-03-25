@@ -22,6 +22,7 @@ The project is divided into sequential modules:
 7. Symfony - 3 - Sessions
 8. Symfony - 3 - Advanced
 9. Symfony - 3 - Final
+
 Each module builds upon the previous one. Completing the modules in order is mandatory to progress to the next step.
 
 
